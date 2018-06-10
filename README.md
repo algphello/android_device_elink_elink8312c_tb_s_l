@@ -1,0 +1,1 @@
+# android_device_elink_elink8312c_tb_s_l
